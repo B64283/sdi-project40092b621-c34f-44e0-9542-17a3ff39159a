@@ -12,9 +12,9 @@ alert("JavaScript works!");
     
     
 //Does a string follow a 123-456-7890 pattern like a phone number?    
-var myString = ("123-456-7890") {
-var myString.length;}
+var myString = ("123-456-7890") 
+var myString.length;
  
-//console.log(myString.length);
+console.log(myString.length);
         
     
