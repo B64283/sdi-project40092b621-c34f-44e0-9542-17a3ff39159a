@@ -1,20 +1,46 @@
-alert("JavaScript works!");
+//alert("JavaScript works!");
 
     
   // arrays
-//Find the total value of just the numbers in an array, even if some of the items are not
-//numbers.
+    
+    
+    
+    
+    
+    
+   
+var myLibrary = function() {
+  
+ //Titlecase String
+var stringtitlecase = function() {
+ var 
+ words = phrase.split("matthewdarke"),
+ word,
+ stop =  phrase.indexof(" ");
+ for (var i = 0; i < words.length; i++){
+	 word.substring(0, 7).toUpperCase();
+               
+	 }
+	 return words;
+	 };  
+  	
+	
+}//end function
+  return {
+      "stringtitlecase": string.titlecase	   
+	    
+	    
+	    
+    }//end return
 
+    // check email pattern
+
+
+
+
+} //end my library	  
     
-    
-    
-    
-    
-    
-//Does a string follow a 123-456-7890 pattern like a phone number?    
-var myString = ("123-456-7890") 
-var myString.length;
+ // Main Code 
+ var newLib = new myLibrary(); //nwe library
  
-console.log(myString.length);
-        
-    
+ 
